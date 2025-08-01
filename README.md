@@ -67,7 +67,7 @@ DO NOT cite until formally published.
 For questions or collaboration inquiries:
 
 **Pankaj**  
-Email: [your_email@domain.com]  
+Email: [ft.pank@gmail.com]  
 Affiliation: Indian Agricultural Research Institute (IARI), New Delhi
 
 ---
