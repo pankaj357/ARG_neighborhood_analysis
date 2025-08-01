@@ -1,0 +1,7 @@
+Protein id	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+PCFFDBNJ_00175	eat(A)_T450I	Enterococcus faecium pleuromutilin resistant Eat(A)	core	AMR	POINT	PLEUROMUTILIN	PLEUROMUTILIN	POINTP	500	500	100.00	95.80	500	WP_002296175.1	ABC-F type ribosomal protection protein Eat(A)	NA	NA
+PCFFDBNJ_00444	copB	copper/silver-translocating P-type ATPase CopB	plus	STRESS	METAL	COPPER/SILVER	COPPER/SILVER	BLASTP	721	745	95.97	80.89	717	AFM70730.1	copper/silver-translocating P-type ATPase CopB	NA	NA
+PCFFDBNJ_02101	aac(6')-I	aminoglycoside 6'-N-acetyltransferase	core	AMR	AMR	AMINOGLYCOSIDE	AMINOGLYCOSIDE	EXACTP	182	182	100.00	100.00	182	WP_002293989.1	aminoglycoside 6'-N-acetyltransferase	NF000165.3	aminoglycoside 6'-N-acetyltransferase
+PCFFDBNJ_02256	msr(C)	ABC-F type ribosomal protection protein Msr(C)	core	AMR	AMR	MACROLIDE/STREPTOGRAMIN	AZITHROMYCIN/ERYTHROMYCIN/STREPTOGRAMIN B/TYLOSIN	BLASTP	492	492	100.00	97.15	492	WP_002314314.1	ABC-F type ribosomal protection protein Msr(C)	NF000168.2	Msr family ABC-F type ribosomal protection protein
+PCFFDBNJ_02529	merA	mercury(II) reductase	plus	STRESS	METAL	MERCURY	MERCURY	HMM	546	631	87.48	67.21	552	AAA83977.1	mercury(II) reductase	TIGR02053.1	mercury(II) reductase
+PCFFDBNJ_02612	clpL	ATP-dependent protease ClpL	plus	STRESS	HEAT	NA	NA	BLASTP	704	704	100.00	99.15	704	ADB69780.1	ATP-dependent protease ClpL	NA	NA

@@ -1,0 +1,29 @@
+Protein id	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+MMPIJKCK_01214	arsB	arsenite efflux transporter membrane subunit ArsB	plus	STRESS	METAL	ARSENIC	ARSENITE	HMM	430	429	100.00	81.35	429	AAA25637.1	arsenite efflux transporter membrane subunit ArsB	NF033877.0	arsenite efflux transporter membrane subunit ArsB
+MMPIJKCK_01252	splE	serine protease SplE	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	238	238	100.00	99.16	238	ABD30999.1	serine protease SplE	NA	NA
+MMPIJKCK_01254	splB	serine protease SplB	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	240	240	100.00	99.58	240	ABD31003.1	serine protease SplB	NA	NA
+MMPIJKCK_01255	splA	serine protease SplA	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	230	235	97.87	95.65	230	ABD31004.1	serine protease SplA	NA	NA
+MMPIJKCK_01261	lukD	bi-component leukocidin LukED subunit D	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	327	327	100.00	94.19	327	CAA73668.1	bi-component leukocidin LukED subunit D	NA	NA
+MMPIJKCK_01262	lukE	bi-component leukocidin LukED subunit E	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	311	311	100.00	99.36	311	RCV70079.1	bi-component leukocidin LukED subunit E	NA	NA
+MMPIJKCK_01334	lmrS	multidrug efflux MFS transporter LmrS	plus	STRESS	BIOCIDE	MACROLIDE/PHENICOL	CHLORAMPHENICOL/ERYTHROMYCIN	BLASTP	480	480	100.00	99.38	480	AAW38464.1	multidrug efflux MFS transporter LmrS	NA	NA
+MMPIJKCK_01574	hlgA	bi-component gamma-hemolysin HlgAB subunit A	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	321	309	100.00	100.00	309	AUU54669.1	bi-component gamma-hemolysin HlgAB subunit A	NA	NA
+MMPIJKCK_01575	hlgC	bi-component gamma-hemolysin HlgCB subunit C	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	315	315	100.00	96.51	315	CAA57277.1	bi-component gamma-hemolysin HlgCB subunit C	NA	NA
+MMPIJKCK_01576	hlgB	bi-component gamma-hemolysin HlgAB/HlgCB subunit B	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	325	325	100.00	97.23	325	CAA57278.1	bi-component gamma-hemolysin HlgAB/HlgCB subunit B	NA	NA
+MMPIJKCK_01780	aur	zinc metalloproteinase aureolysin	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	509	509	100.00	99.41	509	EHO93748.1	zinc metalloproteinase aureolysin	NA	NA
+MMPIJKCK_01812	icaC	polysaccharide intercellular adhesin biosynthesis/export protein IcaC	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTP	350	350	100.00	100.00	350	AUU58561.1	polysaccharide intercellular adhesin biosynthesis/export protein IcaC	NA	NA
+MMPIJKCK_01936	tet(38)	tetracycline efflux MFS transporter Tet(38)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTP	452	450	100.00	100.00	450	WP_001100300.1	tetracycline efflux MFS transporter Tet(38)	NF012176.0	tetracycline efflux MFS transporter Tet(38)
+MMPIJKCK_02132	mepA	multidrug efflux MATE transporter MepA	plus	AMR	AMR	TETRACYCLINE	TIGECYCLINE	BLASTP	451	451	100.00	99.78	451	AAU95768.1	multidrug efflux MATE transporter MepA	NF000131.1	multidrug efflux MATE transporter MepA
+MMPIJKCK_02166	selX	staphylococcal enterotoxin-like toxin X	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	203	203	100.00	98.52	203	AEI60187.1	staphylococcal enterotoxin-like toxin X	NA	NA
+MMPIJKCK_02340	scn	complement inhibitor SCIN-A	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTP	116	116	100.00	100.00	116	ADL23798.1	complement inhibitor SCIN-A	NA	NA
+MMPIJKCK_02342	sak	staphylokinase	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTP	163	163	100.00	100.00	163	CAA24957.1	staphylokinase	NA	NA
+MMPIJKCK_02345	sep	staphylococcal enterotoxin type P	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	260	260	100.00	99.62	260	ADC38120.1	staphylococcal enterotoxin type P	NA	NA
+MMPIJKCK_02415	hld	delta-hemolysin	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	44	26	100.00	100.00	26	AGU62139.1	delta-hemolysin	NA	NA
+MMPIJKCK_02594	cadD	cadmium resistance transporter CadD	plus	STRESS	METAL	CADMIUM	CADMIUM	EXACTP	205	205	100.00	100.00	205	BAB43874.1	cadmium resistance transporter CadD	NA	NA
+MMPIJKCK_02601	blaZ	penicillin-hydrolyzing class A beta-lactamase BlaZ	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	EXACTP	281	281	100.00	100.00	281	WP_000733281.1	penicillin-hydrolyzing class A beta-lactamase BlaZ	NF033139.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+MMPIJKCK_02602	blaR1	beta-lactam sensor/signal transducer BlaR1	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTP	585	585	100.00	95.04	585	WP_001096376.1	beta-lactam sensor/signal transducer BlaR1	NF033108.1	beta-lactam sensor/signal transducer BlaR1
+MMPIJKCK_02603	blaI	penicillinase repressor BlaI	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTP	126	126	100.00	99.21	126	WP_001284656.1	penicillinase repressor BlaI	NF000186.1	penicillinase repressor BlaI
+MMPIJKCK_02614	blaZ	penicillin-hydrolyzing class A beta-lactamase BlaZ	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	EXACTP	281	281	100.00	100.00	281	WP_000733289.1	penicillin-hydrolyzing class A beta-lactamase BlaZ	NF033139.1	penicillin-hydrolyzing class A beta-lactamase BlaZ
+MMPIJKCK_02615	blaR1	beta-lactam sensor/signal transducer BlaR1	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTP	585	585	100.00	95.56	585	WP_001096386.1	beta-lactam sensor/signal transducer BlaR1	NF033108.1	beta-lactam sensor/signal transducer BlaR1
+MMPIJKCK_02616	blaI	penicillinase repressor BlaI	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTP	126	126	100.00	99.21	126	WP_001284656.1	penicillinase repressor BlaI	NF000186.1	penicillinase repressor BlaI
+MMPIJKCK_02623	cadD	cadmium resistance transporter CadD	plus	STRESS	METAL	CADMIUM	CADMIUM	BLASTP	205	205	100.00	99.51	205	BAB43874.1	cadmium resistance transporter CadD	NA	NA
+MMPIJKCK_02637	erm(C)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C)	core	AMR	AMR	LINCOSAMIDE/MACROLIDE/STREPTOGRAMIN	CLINDAMYCIN/ERYTHROMYCIN/STREPTOGRAMIN B/TYLOSIN	EXACTP	244	244	100.00	100.00	244	WP_001003264.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C)	NF012219.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C)

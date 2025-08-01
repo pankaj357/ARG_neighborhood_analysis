@@ -1,0 +1,12 @@
+Genome,Total_ARGs,ARGs_with_MGE,ARGs_in_Cluster,% MGE-Linked,% Clustered
+Acinetobacter_baumannii_strain1,11,10,3,90.9090909090909,27.27272727272727
+Enterobacter_cloacae_strain1,6,4,0,66.66666666666666,0.0
+Enterobacter_cloacae_strain2,15,11,6,73.33333333333333,40.0
+Enterococcus_faecium_strain1,6,4,0,66.66666666666666,0.0
+Enterococcus_faecium_strain2,11,11,8,100.0,72.72727272727273
+Klebsiella_pneumoniae_strain1,48,47,36,97.91666666666666,75.0
+Klebsiella_pneumoniae_strain2,49,47,42,95.91836734693877,85.71428571428571
+Pseudomonas_aeruginosa_strain1,8,6,2,75.0,25.0
+Pseudomonas_aeruginosa_strain2,15,12,8,80.0,53.333333333333336
+Staphylococcus_aureus_subsp_aureus_strain1,27,20,18,74.07407407407408,66.66666666666666
+Staphylococcus_aureus_subsp_aureus_strain2,28,22,19,78.57142857142857,67.85714285714286

@@ -1,0 +1,28 @@
+Protein id	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+EFOPJNHM_00033	mecA	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA	core	AMR	AMR	BETA-LACTAM	METHICILLIN	EXACTP	668	668	100.00	100.00	668	WP_000721310.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA	NF000409.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+EFOPJNHM_00034	mecR1	beta-lactam sensor/signal transducer MecR1	core	AMR	AMR	BETA-LACTAM	METHICILLIN	PARTIALP	328	585	55.56	100.00	325	WP_000952923.1	beta-lactam sensor/signal transducer MecR1	NA	NA
+EFOPJNHM_00052	seh	staphylococcal enterotoxin type H	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTP	241	241	100.00	100.00	241	AAA19777.1	staphylococcal enterotoxin type H	NA	NA
+EFOPJNHM_00109	tet(38)	tetracycline efflux MFS transporter Tet(38)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	EXACTP	450	450	100.00	100.00	450	WP_001100294.1	tetracycline efflux MFS transporter Tet(38)	NF012176.0	tetracycline efflux MFS transporter Tet(38)
+EFOPJNHM_00309	mepA	multidrug efflux MATE transporter MepA	plus	AMR	AMR	TETRACYCLINE	TIGECYCLINE	BLASTP	451	451	100.00	99.33	451	BAB41547.1	multidrug efflux MATE transporter MepA	NF000131.1	multidrug efflux MATE transporter MepA
+EFOPJNHM_00773	sec2	staphylococcal enterotoxin type C2	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	266	266	100.00	99.25	266	AAA26624.1	staphylococcal enterotoxin type C2	NA	NA
+EFOPJNHM_00774	sel	staphylococcal enterotoxin type L	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTP	240	240	100.00	100.00	240	AMG40538.1	staphylococcal enterotoxin type L	NA	NA
+EFOPJNHM_01381	lukF-PV	Panton-Valentine bi-component leukocidin subunit F	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	325	325	100.00	98.77	325	BAA24008.1	Panton-Valentine bi-component leukocidin subunit F	NA	NA
+EFOPJNHM_01382	lukS-PV	Panton-Valentine bi-component leukocidin subunit S	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	312	312	100.00	99.68	312	AGW33874.1	Panton-Valentine bi-component leukocidin subunit S	NA	NA
+EFOPJNHM_01711	arsB	arsenite efflux transporter membrane subunit ArsB	plus	STRESS	METAL	ARSENIC	ARSENITE	HMM	430	429	100.00	81.59	429	AAA25637.1	arsenite efflux transporter membrane subunit ArsB	NF033877.0	arsenite efflux transporter membrane subunit ArsB
+EFOPJNHM_01747	splB	serine protease SplB	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	240	240	100.00	99.58	240	ABD31003.1	serine protease SplB	NA	NA
+EFOPJNHM_01748	splA	serine protease SplA	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	235	235	100.00	99.57	235	ABD31004.1	serine protease SplA	NA	NA
+EFOPJNHM_01758	lukD	bi-component leukocidin LukED subunit D	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	327	327	100.00	94.50	327	CAA73668.1	bi-component leukocidin LukED subunit D	NA	NA
+EFOPJNHM_01759	lukE	bi-component leukocidin LukED subunit E	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	311	311	100.00	99.68	311	RCV70079.1	bi-component leukocidin LukED subunit E	NA	NA
+EFOPJNHM_01910	scn	complement inhibitor SCIN-A	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTP	116	116	100.00	100.00	116	ADL23798.1	complement inhibitor SCIN-A	NA	NA
+EFOPJNHM_01912	sak	staphylokinase	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	163	163	100.00	99.39	163	CAA24957.1	staphylokinase	NA	NA
+EFOPJNHM_01915	sea	staphylococcal enterotoxin type A	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTP	257	257	100.00	100.00	257	BAV60816.1	staphylococcal enterotoxin type A	NA	NA
+EFOPJNHM_01962	seq	staphylococcal enterotoxin type Q	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	242	242	100.00	98.76	242	EYN56163.1	staphylococcal enterotoxin type Q	NA	NA
+EFOPJNHM_01963	sek	staphylococcal enterotoxin type K	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	242	242	99.59	97.10	241	AAW36439.1	staphylococcal enterotoxin type K	NA	NA
+EFOPJNHM_01981	hld	delta-hemolysin	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	44	26	100.00	96.15	26	AGU62139.1	delta-hemolysin	NA	NA
+EFOPJNHM_02120	lmrS	multidrug efflux MFS transporter LmrS	plus	STRESS	BIOCIDE	MACROLIDE/PHENICOL	CHLORAMPHENICOL/ERYTHROMYCIN	BLASTP	480	480	100.00	99.38	480	AAW38464.1	multidrug efflux MFS transporter LmrS	NA	NA
+EFOPJNHM_02358	hlgA	bi-component gamma-hemolysin HlgAB subunit A	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	321	309	100.00	100.00	309	AUU54669.1	bi-component gamma-hemolysin HlgAB subunit A	NA	NA
+EFOPJNHM_02359	hlgC	bi-component gamma-hemolysin HlgCB subunit C	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	315	315	100.00	97.46	315	CAA57277.1	bi-component gamma-hemolysin HlgCB subunit C	NA	NA
+EFOPJNHM_02360	hlgB	bi-component gamma-hemolysin HlgAB/HlgCB subunit B	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	325	325	100.00	97.54	325	CAA57278.1	bi-component gamma-hemolysin HlgAB/HlgCB subunit B	NA	NA
+EFOPJNHM_02571	aur	zinc metalloproteinase aureolysin	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTP	509	509	100.00	99.41	509	EHO93748.1	zinc metalloproteinase aureolysin	NA	NA
+EFOPJNHM_02603	icaC	polysaccharide intercellular adhesin biosynthesis/export protein IcaC	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTP	350	350	100.00	100.00	350	AUU58561.1	polysaccharide intercellular adhesin biosynthesis/export protein IcaC	NA	NA
+EFOPJNHM_02626	cna	collagen adhesin Cna	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTP	1183	1183	100.00	100.00	1183	BAB96477.1	collagen adhesin Cna	NA	NA
